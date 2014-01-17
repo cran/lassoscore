@@ -1,0 +1,5 @@
+export(lassoscore,qqpval,lasso)
+useDynLib(lassoscore)
+S3method(print,lassoscore)
+S3method(summary,lassoscore)
+S3method(plot,lassoscore)

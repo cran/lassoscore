@@ -1,0 +1,9 @@
+4625409e247f02f97a1a22bf2383096e *DESCRIPTION
+3a189f1b539c6b3c945dc5b771d65edb *NAMESPACE
+b57bdd920069c5f78b82c00870b90a54 *R/lassoscore-package.R
+e497587a4260a3718b3e6e6c399d9231 *data/diabetes.RData
+4d006485989d9b8e547ef5271e939339 *man/diabetes.Rd
+4493ff6f8c35ed5736f74d227abb41f2 *man/lasso.Rd
+c407b0a9afaae5f675020bfbcae08161 *man/lassoscore.Rd
+d33f4224865a4ed24ec2bb0144ea89a5 *man/qqpval.Rd
+e861cde44a62a5e71d654618ef0b1b8d *src/lasso.c
