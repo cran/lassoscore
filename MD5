@@ -1,9 +1,8 @@
-4625409e247f02f97a1a22bf2383096e *DESCRIPTION
-3a189f1b539c6b3c945dc5b771d65edb *NAMESPACE
-b57bdd920069c5f78b82c00870b90a54 *R/lassoscore-package.R
-e497587a4260a3718b3e6e6c399d9231 *data/diabetes.RData
+f43fb44118c5df5a0407ef99080da702 *DESCRIPTION
+3c319711569b378d07828b8419e2d9e0 *NAMESPACE
+ca9d5d1fe97833726f222fb9e7dc4916 *R/lassoscore-package.R
+c082e92b315ca4ad99b56d3d0d7dce60 *data/diabetes.RData
 4d006485989d9b8e547ef5271e939339 *man/diabetes.Rd
-4493ff6f8c35ed5736f74d227abb41f2 *man/lasso.Rd
-c407b0a9afaae5f675020bfbcae08161 *man/lassoscore.Rd
-d33f4224865a4ed24ec2bb0144ea89a5 *man/qqpval.Rd
-e861cde44a62a5e71d654618ef0b1b8d *src/lasso.c
+01fbca97e5d5169035945fa718ba8aae *man/glassoscore.Rd
+b1a9cb2d7f039b5060cb9160b581f2fe *man/lassoscore.Rd
+62aa868fd55e1971561faed7f010b3d8 *man/qqpval.Rd

@@ -10,7 +10,7 @@ make a QQ plot of p-values.
 This function makes QQ-plots for p-values, by default on a -log10 scale. It also shows pointwise-95\% confidence bounds for the order statistics of a Uniform(0,1) distribution.
 }
 \usage{
-qqpval(p, cone = TRUE, log = TRUE, add = FALSE,...)
+qqpval(p, cone = TRUE, log = TRUE, add = FALSE, col=1, pch=1,...)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -33,6 +33,9 @@ qqpval(p, cone = TRUE, log = TRUE, add = FALSE,...)
   \item{\dots}{
     other options to be passed to `plot'
 %%     ~~Describe \code{\dots} here~~
+}
+  \item{col,pch}{
+    color and point type. See \link{plot}
 }
 }
 \author{
