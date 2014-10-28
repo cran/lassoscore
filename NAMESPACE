@@ -1,4 +1,4 @@
-import(glasso,glmnet)
+import(glasso,glmnet,Matrix)
 export(mbscore,lassoscore,qqpval,glassoscore,mbscore)
 S3method(print,lassoscore)
 S3method(summary,lassoscore)

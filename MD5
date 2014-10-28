@@ -1,7 +1,7 @@
-f43fb44118c5df5a0407ef99080da702 *DESCRIPTION
-3c319711569b378d07828b8419e2d9e0 *NAMESPACE
+e95e9ceb7cc199147655b1a9762e3af8 *DESCRIPTION
+5d450ff33f24c5110c757ecd47ff0495 *NAMESPACE
 ca9d5d1fe97833726f222fb9e7dc4916 *R/lassoscore-package.R
-c082e92b315ca4ad99b56d3d0d7dce60 *data/diabetes.RData
+ef11f03ed74b013bbd95f40b7e75c3a1 *data/diabetes.RData
 4d006485989d9b8e547ef5271e939339 *man/diabetes.Rd
 01fbca97e5d5169035945fa718ba8aae *man/glassoscore.Rd
 b1a9cb2d7f039b5060cb9160b581f2fe *man/lassoscore.Rd
